@@ -15,7 +15,7 @@ while status == True:
     
     if pilihan == "1":
         print("=== INTERNET OF THINGS ===")
-        print("Filosofi : Tulisan IOT Menjadi nama kelompok yang melambangkan keterhubungan dan inovasi")
+        print("Filosofi : Tulisan IOT Menjadi nama kelompok yang melambangkan keterhubungan dan inovasi teknologi, Bentuk wifi melambangkan keterhubungan solidaritas dan kekompakan. Pola heksagonal menggambarkan teknologi inovasi struktur dan kekuatan. Warna biru tua melambangkan kepercayaan, profesionalisme, teknologi dan ke stabilan. Biru muda melambangkan kreativitas, ketenangan, keterbukaan, dan kemudahan ")
         
     elif pilihan == "2":
         print("- Dzaky Ainur Rahman")
